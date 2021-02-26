@@ -2,8 +2,7 @@
 
 # Lab | Macros Automated Report Generation
 
-- In this lab, you will use the file `Deduction Import Raw.xlsm`. The file is provided in the folder `files_for_lab`. This is the raw data file that is imported from the server.
-
+- In this lab, you will use the file `deduction_import_raw.xlsx`. The file is provided in the folder `files_for_lab`. This is the raw data file that is imported from the server.
 
 ### Scenario
 
@@ -20,6 +19,3 @@ Here is how the final output should look like: [link to the image - Final output
 - The second column consists of a constant value `EE_DDUCT`
 - Third column consists of values from the column AG ie `Benefit`. We would only need the first three letters from this column (if there's value in that column that is more than three letters)
 - Fourth column consists of the numerical value from the column `EE Cost` followed by `|` (vertical bar repeated six times)
-
-
-
